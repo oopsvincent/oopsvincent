@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏻, I am Farhan Ali Reza (known as oopsvincent)</h1>
-<h3 align="center">I am a web developer, and also an frontend engineer</h3>
+<h3 align="center">I am a web developer, and also a frontend engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oopsvincent&label=Profile%20views&color=0e75b6&style=flat" alt="legoshiifr" /> </p>
 
