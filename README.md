@@ -71,8 +71,8 @@ Whether it’s collaboration, freelance, or just geeking out over clean design a
 
 ---
 
-📍 Check out what I’m doing [**/now**](https://github.com/oopsvincent/now)  
-🌐 Découvrez ce que je fais en ce moment [**/maintenant**](https://github.com/oopsvincent/now)
+📍 Check out what I’m doing [**/now**](https://gist.github.com/oopsvincent/5e3453760c3a5bd963198b2b0c00127b)  
+🌐 Découvrez ce que je fais en ce moment [**/maintenant**](https://gist.github.com/oopsvincent/5e3453760c3a5bd963198b2b0c00127b)
 
 ---
 
