@@ -33,14 +33,14 @@ I'm currently exploring the depths of:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" />
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg)" alt="Tailwind CSS" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" />
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)" alt="Postgres" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" />
 </p>
@@ -63,6 +63,16 @@ I'm currently exploring the depths of:
 - 🌱 Currently building fun side projects and leveling up my game development chops.
 - 🧩 I believe in simplicity, creativity, and writing code that lasts.
 - ⚡ Fun fact: I design better with lo-fi beats and thunderstorms in the background.
+
+---
+
+### 🤝 Let’s Connect  
+Whether it’s collaboration, freelance, or just geeking out over clean design and code — I’m open. Reach me at **farhanalireza50@gmail.com** or [LinkedIn](https://www.linkedin.com/in/farhan-ali-reza-849746345/).
+
+---
+
+📍 Check out what I’m doing [**/now**](https://github.com/oopsvincent/now)  
+🌐 Découvrez ce que je fais en ce moment [**/maintenant**](https://github.com/oopsvincent/now)
 
 ---
 
