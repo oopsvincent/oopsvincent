@@ -1,35 +1,71 @@
-<h1 align="center">Hey 👋🏻, I am Farhan Ali Reza (known as oopsvincent)</h1>
-<h3 align="center">I am a web developer, and also a frontend engineer</h3>
+<h1 align="center">Hey there 👋, I'm Farhan Ali Reza (aka oopsvincent)</h1>
+<h3 align="center">Programmer • Frontend Developer • Web Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oopsvincent&label=Profile%20views&color=0e75b6&style=flat" alt="legoshiifr" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oopsvincent&label=Profile%20views&color=0e75b6&style=flat" alt="oopsvincent" />
+</p>
 
-- 🏢 My Portfolio [Portfolio](https://farhanalireza.netlify.app)
+---
 
-- 🔎 My Social Media <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axel-lalaut" height="15" width="20"/> [Linkedin](https://www.linkedin.com/in/farhan-ali-reza-849746345/) / <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axxel__la" height="15" width="20" /> [Instagram](https://www.instagram.com/oopsvincent/)
+### 👨‍💻 About Me
 
-- ✉️ My e-mail **farhanalireza50@gmail.com**
+I'm a passionate developer with a strong focus on **JavaScript**, **TypeScript**, and **C#**. I enjoy building clean, user-friendly interfaces and bringing ideas to life through code. Whether it’s a dynamic web app or an immersive game, I love making digital experiences feel intuitive and engaging.
 
-<h3 align="left">Languages that I'm learning and using :</h3>
- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="80" height="80"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react.js" width="80" height="80"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer" style="background: white; border-radius: 15px;" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" alt="unity" width="80" height="80"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="80" height="80"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a> </p>
+I'm currently exploring the depths of:
+- 🔧 **React.js**, **Tailwind CSS**
+- ☕ **Java**, **C#**, and **Unity**
+- 🧠 Constantly learning and sharpening my skills
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### 🔗 Connect With Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oopsvincent&show_icons=true&locale=en&layout=compact" alt="oopsvincent"></p>
-<br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oopsvincent&show_icons=true&theme=radical" alt="oopsvincent"/></p>
-<br><br>
+- 🖥️ [My Portfolio](https://farhanalireza.netlify.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/farhan-ali-reza-849746345/)
+- 📸 [Instagram](https://www.instagram.com/oopsvincent/)
+- 📩 Email me at: **farhanalireza50@gmail.com**
 
+---
 
-- 👋 Hi, I’m @oopsvincent
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.Js, Tailwind CSS, Java and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+### 🧰 Tech Stack & Tools
 
-<!---
-oopsvincent/oopsvincent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oopsvincent&show_icons=true&theme=radical" alt="oopsvincent's GitHub stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oopsvincent&layout=compact" alt="Top languages" />
+</p>
+
+---
+
+### 🚀 A Little Extra
+
+- 👀 Always curious about frontend performance, UI/UX psychology, and design systems.
+- 🌱 Currently building fun side projects and leveling up my game development chops.
+- 🧩 I believe in simplicity, creativity, and writing code that lasts.
+- ⚡ Fun fact: I design better with lo-fi beats and thunderstorms in the background.
+
+---
+
+<!--
+Thanks for stopping by! If you scrolled this far, we should probably build something cool together someday. 😉
+-->
