@@ -23,6 +23,7 @@ I'm currently exploring the depths of:
 - 🖥️ [My Portfolio](https://farhanalireza.netlify.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/farhan-ali-reza-849746345/)
 - 📸 [Instagram](https://www.instagram.com/oopsvincent/)
+- 🎮 [Itch.io](https://oopsvincent.itch.io/)
 - 📩 Email me at: **farhanalireza50@gmail.com**
 
 ---
@@ -33,7 +34,7 @@ I'm currently exploring the depths of:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" />
