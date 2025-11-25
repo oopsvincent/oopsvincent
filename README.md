@@ -1,82 +1,79 @@
-<h1 align="center">Hey there 👋, I'm Farhan Ali Reza (aka oopsvincent)</h1>
-<h3 align="center">Programmer • Frontend Developer • Web Designer</h3>
+<h1 align="center"><b>Farhan (aka oopsvincent)</b></h1>
+<h3 align="center">Web Developer • Systems Thinker • Builder of Human-Centered Digital Products</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oopsvincent&label=Profile%20views&color=0e75b6&style=flat" alt="oopsvincent" />
+  <img src="https://komarev.com/ghpvc/?username=oopsvincent&label=Profile%20views&color=grey&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧭 About Me
 
-I'm a passionate developer with a strong focus on **JavaScript**, **TypeScript**, and **C#**. I enjoy building clean, user-friendly interfaces and bringing ideas to life through code. Whether it’s a dynamic web app or an immersive game, I love making digital experiences feel intuitive and engaging.
+I’m Farhan Ali Reza - a web developer and systems thinker focused on building long-term, human-centered digital products.  
+My current focus is **Rhythmé**, a platform designed to integrate habits, clarity, and personal growth into a meaningful daily system.
 
-I'm currently exploring the depths of:
-- 🔧 **React.js**, **Tailwind CSS**
-- ☕ **Java**, **C#**, and **Unity**
-- 🧠 Constantly learning and sharpening my skills
+I’m driven by:
+- structured thinking  
+- clean and intentional design  
+- long-term product vision  
+- disciplined execution  
 
----
-
-### 🔗 Connect With Me
-
-- 🖥️ [My Portfolio](https://farhanalireza.netlify.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/farhan-ali-reza-849746345/)
-- 📸 [Instagram](https://www.instagram.com/oopsvincent/)
-- 🎮 [Itch.io](https://oopsvincent.itch.io/)
-- 📩 Email me at: **farhanalireza50@gmail.com**
+My work blends frontend engineering, product thinking, and a deep interest in how people interact with tools that shape their lives.
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🚀 What I’m Building
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" />
-</p>
+- **Rhythmé** — a human-centered productivity and well-being ecosystem  
+- **GrooveEstrella** — an upcoming platform focused on music systems (built last year, will continue again from next year)  
+- A long-term, multi-product ecosystem under a unified company vision  
+
+I’m working toward establishing a technology brand that builds systems—not just apps.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+I work primarily with:
+
+- **TypeScript / JavaScript**  
+- **React / Next.js**  
+- **Tailwind CSS**  
+- **Node.js**  
+- **C# / Unity** (past experience)  
+- **Design Systems & UI Engineering**
+
+I care more about **clarity, structure, and maintainability** than chasing the newest framework.
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oopsvincent&show_icons=true&theme=radical" alt="oopsvincent's GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oopsvincent&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oopsvincent&show_icons=true&theme=transparent" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oopsvincent&layout=compact&theme=transparent" height="160" />
 </p>
 
 ---
 
-### 🚀 A Little Extra
+## 🌍 Connect With Me
 
-- 👀 Always curious about frontend performance, UI/UX psychology, and design systems.
-- 🌱 Currently building fun side projects and leveling up my game development chops.
-- 🧩 I believe in simplicity, creativity, and writing code that lasts.
-- ⚡ Fun fact: I design better with lo-fi beats and thunderstorms in the background.
+- Portfolio: **https://oopsvincent.vercel.app**  
+- LinkedIn: **https://linkedin.com/in/farhanalireza**  
+- Instagram: **https://instagram.com/oopsvincent**  
+- X (Twitter): **https://twitter.com/oopsvincent**  
+- Email: **farhan44@duck.com**
 
----
-
-### 🤝 Let’s Connect  
-Whether it’s collaboration, freelance, or just geeking out over clean design and code — I’m open. Reach me at **farhanalireza50@gmail.com** or [LinkedIn](https://www.linkedin.com/in/farhan-ali-reza-849746345/).
+I’m open to collaboration, product ideas, and meaningful conversations around design, systems, and long-term creation.
 
 ---
 
-📍 Check out what I’m doing [**/now**](https://gist.github.com/oopsvincent/5e3453760c3a5bd963198b2b0c00127b)  
-🌐 Découvrez ce que je fais en ce moment [**/maintenant**](https://gist.github.com/oopsvincent/5e3453760c3a5bd963198b2b0c00127b)
+## 🕒 Now
+
+You can see what I’m currently focused on here:  
+**https://oopsvincent.vercel.app/now**
 
 ---
 
-<!--
-Thanks for stopping by! If you scrolled this far, we should probably build something cool together someday. 😉
--->
+<p align="center"><i>Building human-centered systems with discipline, clarity, and intention.</i></p>
